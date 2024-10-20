@@ -1,0 +1,156 @@
+Microsoft wants Windows 11 to feel familiar. While the company has attempted drastic changes to the user interface of Windows in the past and failed, Windows 11 feels like a subtle and considered attempt to modernize an operating system that’s existed for more than 35 years.
+
+There’s a new Start menu that ditches the Live Tiles that were originally introduced in Windows 8. There’s a new design that introduces rounded corners in place of Windows 10’s sharp angles, and some depth and color to Windows. And there’s a new Windows app store that’s far more open, with more of the apps you actually use on Windows.
+
+
+These changes alone make Windows 11 look different, but once you get used to them it’s certainly the same feel of Windows underneath. Windows 11 is a refreshing approach to this old and familiar home, but it often feels like the home renovation phase isn’t finished. Some features you might be familiar with are missing, others that were promised haven’t arrived just yet, and there’s still too much of the crusty old parts of Windows hanging around.
+
+Whether you even upgrade to Windows 11 will also depend heavily on your PC hardware. While Microsoft encouraged everyone to upgrade to Windows 10 for free, only those with modern processors (Intel 8th Gen, launched in 2017, or newer) will be offered the free upgrade to Windows 11. It’s this decision, one that Microsoft puts down to security, that has marred Windows 11 in controversy before its release.
+
+But actually using Windows 11 for the past few months hasn’t felt as controversial as I had expected. Most of Microsoft’s aesthetic improvements are much-needed, even if they could go a lot further in places. It feels very similar to Windows 10, but there are some missing parts that I think power users will miss greatly. While the improvements might be worth the upgrade for most, Windows 11 mostly delivers changes to an old formula that works rather than a new way to use Windows.
+
+
+8
+Verge Score
+Microsoft Windows 11
+
+THE GOOD
+
+New modern UI and sounds
+Snap Assist multitasking feature
+Fast and responsive on modern hardware
+THE BAD
+
+Missing features like universal mute, Android apps, and Dynamic Refresh Rate
+The taskbar is a giant step back
+Dark mode and UI changes aren’t consistent
+How we rate and review products
+The new Windows 11 taskbar and Start menu.
+The new Windows 11 taskbar and Start menu.
+Design and what’s new
+
+You’ll notice the new Windows 11 design immediately if you upgrade. Microsoft has taken some clear cues from macOS, Chrome OS, and even Android and iOS here. Rounded corners are everywhere you look, and the centered taskbar that reveals the new Start menu feels a lot like some type of Android app launcher.
+
+
+Microsoft has greatly simplified the Start menu here and removed the Live Tiles of widget-like information that have existed since the Windows 8 days. It feels a lot less cluttered and easier to see your recent apps and documents. I like this simplification a lot, and I think most people will prefer it to the Start menu that exists in Windows 10.
+
+Overall, the Windows 11 user interface has been rounded, with hints of color and depth throughout. Coupled with new rounds that are less jarring, Windows 11 feels a lot more modern. A centered taskbar adds to that new feeling, and you’ll find most parts of Windows 11 feel refreshed.
+
+The centered taskbar icons can be switched back to the traditional left-hand side of the screen, but you can’t undock and move the taskbar freely or pin it to the sides or top of the screen like you’ve been able to do for years in Windows. To tweak the taskbar, you’ll need to head into the new settings interface. It’s an area of Windows 11 that has been overhauled the most, and it took me a few hours to get comfortable with the changes when I first started using the OS.
+
+Settings in Windows 11 has been greatly improved.
+Settings in Windows 11 has been greatly improved.
+It’s a lot easier to navigate settings now, with hints of color and icons that help you easily identify sections. While Microsoft has included even more settings in here, you’re still thrown into the ancient Control Panel-like interfaces from 1995 if you want to adjust things like additional mouse settings. I don’t think most people will experience these areas in Windows 11 as much as they might have in Windows 10, but it’s disappointing it’s still so easy to stumble into them.
+
+On the taskbar, you’ll also find icons for Widgets and Microsoft Teams integration. Widgets is a new dedicated section in Windows 11 that flies out from the left-hand side of the screen. It houses the weather and news widgets that were added to the Windows 10 taskbar, but you can’t drag and drop these onto your desktop or elsewhere.
+
+I’ve rarely used the widgets section in Windows 11. In fact, I miss having the glanceable weather on the taskbar instead of it being hidden away in a dedicated section. I also greatly dislike that Microsoft forces you into its Edge browser if you click on links in widgets, instead of respecting your default browser in the OS. The search interface in Windows 11, which remains largely unchanged, also still forces you into Edge and Microsoft’s Bing search engine.
+
+Widgets in Windows 11 have a dedicated section.
+Widgets in Windows 11 have a dedicated section.
+The updated notification center.
+The updated notification center.
+The new Quick Settings in Windows 11.
+The new Quick Settings in Windows 11.
+Windows 11 search interface.
+Windows 11 search interface.
+Windows 11 also makes it way more difficult to switch your default browser. If you miss the initial prompt and forget to check an option, you’ll have to jump through multiple settings changes to enable a third-party browser as default. It’s a change that has led Mozilla to bypass Microsoft’s protections, to allow Firefox users to enable it as default in just a single click. Microsoft’s browser-related changes here aren’t user-friendly at all, and I’m surprised Microsoft is shipping a new version of Windows like this.
+
+Microsoft is also integrating Teams into Windows 11. It’s designed to push the service to consumers, and it supports audio and video calling, meetings, and screen sharing. I’ve barely used it, however, simply because I don’t communicate with friends or family using Teams. I feel like this will be a lot more interesting once it’s available for businesses, but until then I think most people will be searching for ways to get Teams to go away in Windows 11.
+
+Microsoft has also simplified the system tray, volume fly outs, network controls, and notification center in Windows 11. I still think Microsoft could go further to improve audio controls in Windows 11, particularly the volume indicator that’s still the same one that shipped in Windows 8. It’s another part of Windows 11 that feels unfinished. It’s also completely out of place with the rest of the UI, with sharp corners and a black theme even in light mode.
+
+Microsoft Teams is integrated into the Windows 11 taskbar.
+Microsoft Teams is integrated into the Windows 11 taskbar.
+Some of the best improvements in Windows 11 can be found in multitasking. Windows has long had many different ways to arrange and snap Windows, accessible through the UI, keyboard shortcuts, or context menus. Now they’re no longer a hidden secret that only power users discover. Microsoft has collected these all together and now presents them in the form of so-called Snap Assist, a button that appears when you hover over the maximize button on most apps.
+
+
+It’s a great way to position apps the way you want them to appear on multiple monitors, or virtual desktops. Windows 11 will also remember these Snap layouts and present them in Snap Groups on the taskbar, making it easy to bring all your apps back together again if you’ve closed some or rebooted. Microsoft has also added an intelligent way to dock and undock laptops, where Windows 11 will remember where your apps were positioned so your apps don’t go flying around your screen.
+
+The Snap Assist feature in Windows 11 is one of the best additions.
+The Snap Assist feature in Windows 11 is one of the best additions.
+Snap Assist makes power user features easy to use.
+Snap Assist makes power user features easy to use.
+It’s supposed to also help when you resume from sleep and certain monitors take a while to wake up and then rearrange your apps. But again, it feels unfinished: I’ve been testing Windows 11 on a Samsung G7 monitor that exhibits this problem, and the OS still doesn’t correctly reposition my apps.
+
+Microsoft’s new app store is another welcome improvement in Windows 11. The Microsoft Store has sucked for years on Windows, and it barely listed any of the apps you actually wanted to install on a PC. That’s starting to change in Windows 11, thanks to Microsoft making some big alterations. Microsoft is finally allowing developers to submit any application to the store, enabling third-party browsers and regular traditional desktop apps to appear in search results.
+
+The Microsoft Store is greatly improved in Windows 11.
+The Microsoft Store is greatly improved in Windows 11.
+It’s a big change that has already had a big impact, with popular apps like Zoom, Discord, OBS Studio, VLC, and TeamViewer now available in the Microsoft Store. Microsoft is even opening up its Store to rival app stores like the Amazon Appstore and Epic Games Store in the coming months, and it could mean Steam will appear in the Microsoft Store soon, too.
+
+The Microsoft Store app itself also feels more simplified, with a library section that lists app updates and purchases, as well as individual sections for apps, gaming, and entertainment. Combined with Microsoft’s Store revenue changes, it looks like we’ll finally have a single location to reliably download Windows apps and avoid running into viruses by searching for .exe files on the web.
+
+Microsoft is also promoting Windows 11 as “the best Windows ever for gaming.” I’m not entirely sure why, though. In my experience playing a variety of games on Windows 11, not much has changed over Windows 10. There’s a new Auto HDR feature that’s arrived from the Xbox side, and it automatically improves compatible games where developers haven’t added HDR support. Microsoft is also adding DirectStorage support to Windows 11, the same system that’s used on Xbox to improve load times from SSDs in compatible games.
+
+While a bunch of games support Auto HDR, DirectStorage support isn’t available at the launch of Windows 11, and it will also be available on Windows 10 once it’s ready. Microsoft is integrating its new Xbox app into Windows 11, though. It offers a better way to download and install games from Xbox Game Pass, and it even includes the ability to stream Xbox games from Xbox Cloud Gaming (xCloud).
+
+I haven’t noticed any big performance improvements or problems running games on Windows 11. It feels exactly the same as Windows 10 for gaming, as far as I can tell. That could change for new pre-built systems, though. PC Gamer has noticed that Windows 11’s new Virtualization-Based Security (VBS) can impact gaming performance by as much as a 28 percent drop in frame rates. It’s a setting that Microsoft wants PC builders to enable by default on new Windows 11 PCs, so while it won’t impact people upgrading or clean installs, new gaming PCs could ship with VBS enabled.
+
+I wasn’t able to test with VBS enabled on my own gaming PC due to driver issues preventing the setting from being enabled. We’ve asked Microsoft about these potential performance issues, but the company was unable to comment in time for publication.
+
+Best cheap laptop 2022: Microsoft Surface Go 3
+Touch has also been improved in Windows 11. Photo by Vjeran Pavic / The Verge
+If you have a laptop with a touchscreen or a tablet, Windows 11 offers some improvements here, too. The touch keyboard has been greatly improved, so it’s easier to detach and move around, and it also comes with 13 new themes and a theme engine that lets you customize the keyboard with background images.
+
+Windows 11 also ships with new touch gestures that you can use for navigation. A three-finger gesture sideways lets you switch between apps, or you can swipe downward with three fingers to get back to your desktop. You can also use four fingers to switch between virtual desktops sideways, or swipe up to see a preview of all virtual desktops. These are identical to the touchpad gestures that exist in Windows 10, too.
+
+Finally, Microsoft has also made a lot of improvements to the built-in apps in Windows 11. Paint, Clock, and Photos see the most changes, with Paint dropping its ribbon interface for a new command bar that can also be found in File Explorer. The Photos app also includes a redesign, with a neat multiview feature that lets you compare a bunch of photos in a single window.
+
+The Clock app now includes Focus Sessions, a new feature that uses the Pomodoro Technique, a method of managing time by breaking down work into smaller chunks with short breaks. Focus Sessions includes Spotify integration, and it’s useful between meetings if you want to take a brief digital detox session.
+
+Windows 11 still feels like a work in progress in many parts.
+Windows 11 still feels like a work in progress in many parts. Photo by Vjeran Pavic / The Verge
+What’s missing? A work in progress
+
+Windows 11 feels like it’s still in beta in some parts, especially with missing features and promised new features set to arrive later. The taskbar is the most obvious area that’s lacking in Windows 11, with basic things missing like being able to set the taskbar size or position. Drag and drop on the taskbar is also absent, and you can’t even display the time and date on the taskbar on multiple monitors. In fact, by default, the taskbar is disabled on multiple monitors.
+
+If you’re used to enabling small icons, or ungrouping the icons on the taskbar, these features are also gone in Windows 11. You also can’t hide system icons from the system tray section of the taskbar anymore, and right-clicking on the taskbar only presents a settings shortcut instead of the Task Manager and other options that existed in Windows 10. I’ve already written how I hate the Windows 11 taskbar, and I’m genuinely stunned Microsoft is shipping Windows 11 like this.
+
+While a lot of Windows 11 users won’t even notice the taskbar changes, the feedback in Microsoft’s Windows Insider program is clear. The top feedback items mostly relate to the taskbar. Microsoft is aware and tells me it’s in the process of better understanding the feedback and evaluating how some of the feedback fits into the company’s Windows 11 plans. There’s no guarantee that the taskbar will change, but I’m hopeful Microsoft will bring back some of the missing features here.
+
+Dark mode isn’t consistent in Windows 11.
+Dark mode isn’t consistent in Windows 11.
+AGREE TO CONTINUE: Windows 11
+Every smart device now requires you to agree to a series of terms and conditions before you can use it — contracts that no one actually reads. It’s impossible for us to read and analyze every single one of these agreements. But we started counting exactly how many times you have to hit “agree” to use devices when we review them since these are agreements most people don’t read and definitely can’t negotiate.
+
+To use Windows 11, you have to agree to:
+
+Request for your language, region, and keyboard layout
+Windows 11 License Agreement
+Microsoft Account (can opt out on Windows 11 Pro)
+Diagnostic data
+Connect to the internet (can opt out on Windows 11 Pro)
+The following agreements are optional:
+
+Privacy settings, including find my device, inking and typing, advertising ID, location, diagnostic data, and tailored experiences
+OneDrive backup
+Microsoft 365
+That’s five mandatory agreements and eight optional ones to use Windows 11.
+
+During my first look at Windows 11, I assumed that the dark mode would eventually get better before release. Unfortunately, it hasn’t improved. Many of the dialog prompts and parts of Windows 11 are still bright white, which is jarring when you’ve specifically enabled a dark theme in the OS. Windows is also still the only major OS that doesn’t have an automatic switch between light and dark modes based on the time of day. Android, macOS, iOS, and iPadOS all have this basic feature.
+
+The new context menu system in Windows 11 is also jarring. Microsoft has created beautiful new context menus in Windows 11, but they don’t appear everywhere. You can right-click in the File Explorer and see a new context menu, but inside apps and elsewhere in Windows 11, you’ll find the old context menu regularly. They not only look different, but the options for renaming or copying files have moved so your muscle memory has to adjust accordingly. It’s hard to get used to a new method if the old method still randomly appears, though. I believe this and the dark mode inconsistencies will eventually be addressed in Windows 11, but it’s still surprising it’s not finished for launch.
+
+Not finished is a running theme for Windows 11, unfortunately. Microsoft had promised a universal mute and unmute feature that lets you quickly mute your microphone across all apps, but it’s missing at launch. Microsoft also announced Android apps were coming to Windows 11, but those are also not ready for launch. Even a Dynamic Refresh Rate feature that’s supposed to improve scrolling and inking on new 120Hz Windows 11 devices without hitting battery life is missing at launch.
+
+Microsoft tells me it’s working on some customer feedback around the universal mute feature and it will arrive soon. Android apps on Windows 11 should be available in preview before the end of the year, but it’s not clear when it will arrive for all Windows 11 users. Microsoft isn’t commenting on when Dynamic Refresh Rate will be available.
+
+Microsoft’s promised Android apps on Windows 11 aren’t ready yet.
+Microsoft’s promised Android apps on Windows 11 aren’t ready yet. Image: Microsoft
+So, should you upgrade?
+
+Whether you should upgrade will rely a lot on how you use Windows and on what hardware. Microsoft is making some dramatic changes to the minimum system requirements in Windows 11 that will leave millions of PCs behind. Windows 11 will require Intel 8th Gen Coffee Lake or AMD Zen 2 CPUs and up, TPM 2.0 (Trusted Platform Module) support, 4GB of RAM, and 64GB of storage.
+
+Microsoft doesn’t typically enforce such specific processor requirements with Windows — with both Windows 8 and Windows 10 only requiring a 1GHz processor, 1GB of RAM (2GB for 64-bit), and 16GB of storage (20GB for 64-bit). That’s meant that power users and IT admins have gotten used to upgrading Windows without having to worry about switching out hardware.
+
+While most consumers traditionally buy new PCs, instead of upgrading their Windows version, Microsoft’s upgrade efforts with Windows 10 have made everyone more aware of free upgrades and the security that comes with the latest and greatest. Coupled with regular Android and iOS upgrades, consumers are far more likely to be aware there’s a new version of their operating system than ever before. 
+
+Microsoft’s PC Health Check app.
+So even if you want to upgrade, you’ll need to check Microsoft’s PC Health Check app to see if your PC will even support Windows 11. You may need to enable TPM 2.0 from your PC’s BIOS settings to get Secure Boot working, or perhaps even switch how Windows is installed on your storage if you manually installed the OS. The hardware requirements have changed a lot here, but the PC Health Check app should guide you on anything that needs addressing.
+
+I’ve been running Windows 11 on my laptop and I enjoy the experience there, but on my desktop with three monitors, I’m holding off on upgrading. The way I use my laptop is very different from my desktop PC, so Windows 11 fits just fine in my lap. I regularly use full-screen apps and games on my main PC, so not being able to see the time and date across multiple monitors is annoying. Coupled with the taskbar changes that prevent drag and drop, I feel less productive using Windows 11 on my main PC.
+
+While this is the first time I’m holding off on a Windows upgrade on my main PC ever, I think for most people Windows 11 will be a welcome improvement to a user interface that’s really needed some love and attention over the years. It’s not a necessary upgrade for anyone, though. I can’t point to a single feature in Windows 11 that’s really worth upgrading instantly for; instead, it’s a collection of changes that make the OS feel more modern and easier to use.
+
+I wouldn’t rush out to upgrade to Windows 11, but I also wouldn’t avoid it. After all, Windows 11 still feels familiar and underneath all the UI changes, it’s the same Windows we’ve had for decades.
