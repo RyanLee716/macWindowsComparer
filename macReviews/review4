@@ -1,0 +1,26 @@
+o, that’s Sequoia. There’s no getting around the fact that Sequoia is an odd update. It has its highs and lows as any OS release does, but it feels incomplete. In some ways, that’s easily explained by the absence of Apple Intelligence, but not entirely.
+
+Sequoia feels like visiting a bookstore and finding a book you want to read, only to discover that half the chapters have been torn out.
+Instead, Sequoia feels like visiting a bookstore and finding a book you want to read, only to discover that half the chapters have been torn out. The OS feels unfinished in a way past releases that started down a path of implementing new technologies like Swift and Catalyst didn’t.
+
+Is that because Apple changed course midway on the path to Sequoia and scrapped features to focus on Apple Intelligence? Perhaps. It’s a theory that tracks with the fact that macOS 15.1 was released in beta to developers long before 15.0 was even released to the public, and even when 15.1 is released, its Apple Intelligence features will receive a ‘beta’ label. Those are unusual moves by Apple that arguably acknowledge that the Sequoia you can download today is incomplete and unfinished.
+
+It’s tempting to ignore how Sequoia wound up in an odd spot and solely focus on the merits of what’s in 15.0, but I think that would be a mistake. Apple is known for waiting to announce hardware and software until it’s ready and the company can articulate a clear message about where it fits among their products.
+
+At WWDC, Apple laid out a vision of Apple Intelligence as a personal, private, integrated approach to AI. It’s too early to judge whether Apple Intelligence will succeed at meeting those goals, but what’s different from other announcements that took years to implement is that there’s no trace of Apple Intelligence in macOS 15.0 today. In the past, even when the payoff of a new technology was years away, macOS has always included some sort of first step into the future for users alongside a full menu of standard year-over-year updates.
+
+A good example is Mac Catalyst, which was announced at WWDC with macOS Mojave. Catalyst started as a Sneak Peek that made it clear the technology was more about the future than the present. Also, in contrast to Sequoia, Mojave offered a significantly deeper set of standard OS updates along with the first Catalyst system apps. Apple may have made it clear that Apple Intelligence is being released in stages over time, but it’s also a central part of the Sequoia story.
+
+It’s hard to have that one both ways, which is at the core of what makes Sequoia different and has left me with a nagging sense of unease all summer. The update’s shipping features aren’t at fault; some I like, and others I don’t. Instead, it’s my, “Is that it?” reaction that concerns me and leads me to wonder what features may have been shelved to focus on Apple Intelligence.
+
+Maybe this will all work out in the end, and we’ll look back at 15.0 as part one of an odd, quick two-part release when 15.1 comes along. I hope so, but those are stories for another day as Apple incrementally releases its AI features.
+
+Regardless of Sequoia’s backstory, though, the result is an update that’s easy to miss unless you go looking for the new features. That may be music to some Mac users’ ears, but to me, it makes Sequoia an underwhelming release.
+
+That’s not to say there aren’t bright spots. iPhone Mirroring is one of those Continuity features that I never knew I wanted, but I’m glad I now have. I don’t use it every day, but it makes my iPhone feel more like a part of my Mac workflow. The addition of iPhone notifications on the Mac has had a similar effect. Being able to manage and clear notifications in one place is simply more efficient.
+
+Likewise, I’m a fan of the new window tiling system in Sequoia. It should have been added a long time ago, but it’s still a great addition. A dedicated Passwords app and Safari’s new video viewer make working with passwords and watching videos substantially better too. Plus, I appreciate the ability to create custom routes in Maps from my desk before heading out for a walk.
+
+Other features, like Safari’s article summaries and the curiously rare tables of contents, aren’t ready for prime time. The late beta period addition of Hide Distractions to Safari strikes me as an ill-advised solution to a problem that’s better solved by Reader mode. It’s hard to imagine many of these Safari features making the cut in a year when macOS had more to offer users.
+
+On balance, though, macOS Sequoia is fine, which is also the source of its biggest problem. Apple has taught us to expect more than fine. Maybe Apple Intelligence will fill Sequoia’s gaps and elevate it beyond fine, but I’m skeptical based on what I’ve seen of macOS 15.1 so far. Of course, there’s a long road ahead before I or anyone else can fairly judge Apple Intelligence. But by putting off those features until later and shipping a 15.0 update that’s light on other features and long on promises of a better tomorrow, Apple has simultaneously failed to tell a compelling story about this release and Apple Intelligence as the future of the Mac. Hopefully, macOS 16.0’s storylines will be more compelling on both fronts.

@@ -1,0 +1,199 @@
+When I go to concerts, I always feel bad for the opening acts. No matter how good they are, no matter how hard they try, they’re just not the reason the audience is there. At one memorable show in my hometown music venue, the opening act asked the people at the bar to kindly keep their conversations down a little bit while she was performing. (They continued to ignore her.)
+
+What I’m saying is, macOS 15.0 Sequoia is here, but all anyone wants to know about is version 15.1. As with iOS and iPadOS, this fall’s release is the one that will begin to deeply integrate machine-learning models, dubbed Apple Intelligence, throughout the operating system. But the point-oh versions entirely lack those anticipated features, which won’t arrive until point-one.
+
+This is not to say that there aren’t a bunch of new Mac features in macOS Sequoia 15.0. This release contains some classic Apple moves, like adding a feature found in third-party Mac utilities for years, but with a simplified “now it’s for everybody” feature set. It’s got some surprising (to me, anyway) and useful integrations with the rest of its ecosystem that make the Mac and iPhone work together like never before. A useful OS feature has gotten promoted to a full-fledged utility app, hopefully with the end result of more people using it. One of my favorite Messages features, left for years to dry on the vine, has finally gotten a long-deserved expansion. Safari has received a bunch of updates that should help users cut through the distractions and confusion of the Web.
+
+And this release also features Apple’s continued ratcheting up of its macOS security and privacy procedures—which isn’t a bad thing on its own, but comes with associated degradations of the user experience that Apple doesn’t seem appropriately concerned about mitigating.
+
+There’s a lot here, even without Apple Intelligence. And those features—modest though they’ll be, at least to start—will be along soon enough. The rock star is back stage, diving into a bowl of green M&Ms. But you bought the ticket, you’ve got a drink in hand, and this opening act is going to sing its heart out for you.
+
+Anyway, here’s “Wonderwall”—er, I mean, here’s macOS Sequoia 15.0.
+
+iPhone mirroring
+
+
+iPhone mirroring even rotates automatically for horizontal content—but won’t let you rotate it yourself.
+Every so often, Apple comes out with a new operating system feature that takes me completely by surprise. So it is with iPhone Mirroring, a new app that lets you view and operate your iPhone from the comfort of your Mac.
+
+This is one of Apple’s Continuity features, which means that in order to connect to your iPhone, it needs to be within Bluetooth range of your Mac. Once the connection is established, I’m led to believe that the rest of the conversation between the two devices happens over Wi-Fi. I work about 20 feet away from where I keep my iPhone docked, and I was able to use the iPhone without any problem. Initially connecting to it was a little unreliable, however—sometimes it worked perfectly, and other times I needed to retrieve my iPhone and bring it closer, or unlock it and then re-lock it, in order to get it to work.
+
+
+It’s the iPhone, on your Mac.
+When you’re connected to the iPhone, you see its interface on your Mac’s screen—but the iPhone screen itself remains locked, either at the Lock Screen or in StandBy mode. (If you try to take over an open iPhone, it won’t let you. And when you go back to your iPhone after a sharing session, your iPhone will alert you to the fact that it was being remotely operated, as a precaution.)
+
+When you connect, the Mac’s keyboard and trackpad are interpreted just as you would expect, right down to swipes and scrolling. Requests for authentication can be handled by Touch ID on the Mac. When you move the pointer over the top of the iPhone Mirroring window, a window frame appears, giving you standard Mac window controls (you can minimize the app to the Dock, for instance) as well as two buttons to bring up the App Switcher or go to the Home Screen.
+
+The screen appears flawless, operating at high frame rates and even transmitting audio back to the Mac. I was able to click around and play games as if I were running the apps right on my Mac. I could play podcasts in Overcast and the audio came right out of my Mac speakers.
+
+I was also impressed with the feature that sends iPhone notifications straight to my Mac. They appear as normal Notification Center alerts, but when I clicked on them, they automatically launched iPhone Mirroring, connected to my iPhone, and launched the correct app on the iPhone. It all seems perfectly logical and not a big deal—until you start to think about what has to happen behind the scenes to make all of that work smoothly.
+
+That said, I did encounter some issues. Apple says that the screen will automatically rotate into horizontal orientation when an app requires it, which I found to be true, but there seems to be no way to force a rotation when you’d prefer to use an app horizontally that also works vertically. I also couldn’t seem to bring up Control Center or watch video (presumably due to anti-piracy features?).
+
+Still, this feature is awesome. As someone who sits at my Mac all day, it makes my iPhone and my Mac far more useful to me by making them work even better together.
+
+Put windows in a corner
+
+
+You can tile windows via drags, keyboard shortcuts, menu items, or straight from the green button in the title bar.
+Over the years, Apple has added numerous ways to organize your windows to macOS, from Spaces to Split View to Stage Manager. In macOS Sequoia, it’s finally offering an approach similar to what Microsoft has offered on Windows for a while now: simple window tiling.
+
+Yes, it’s a feature that’s been implemented by numerous macOS utilities over the years, and those utilities will almost certainly offer users more options and customizability than the basic functionality Apple offers. But most people don’t seek out UI-customization utilities, and adding tiling to macOS will help those people. And as usually happens, Apple’s basic implementation will eventually lead to those users seeking out a third-party app that gives them more control.
+
+In any event, Apple’s tiling is certainly basic. You can drag a window to the top, side, or corner of the screen in order to make it quickly resize and fill that half or quarter of your display. By default, nothing happens until you drag a window and your pointer hits a boundary, at which point you’ll see a ghostly rectangle that indicates where your window will be placed. If you want to see it more quickly, you can hold down Option, which makes the ghostly rectangle appear right away (and if you like what you see, you can release your click and the window will be immediately resized, no boundary needed).
+
+I was impressed with one little detail: If you drag a window back out of its tiled place, it resumes the size and shape it had before it was tiled.
+
+
+Window tile commands abound.
+You can click and hold on the green “stoplight” button in the window’s title bar to choose from a few different arrangement options. There are also keyboard shortcuts that let you arrange windows in a hurry. These are bound to an item in the Windows menu called Move & Resize that offers shortcuts for many basic moves. The idea here is that you’ll build up some muscle memory about using keyboard shortcuts to send your windows left, right, up, or down.
+
+Unfortunately, Apple seems to have bound these commands to the Globe key, and if you don’t use an Apple keyboard you can’t access those shortcuts without third-party add-ons. Also, there are no keyboard shortcuts at all for the quarter-screen-based tiling commands.
+
+I’m also disappointed about just how basic Apple’s window-tiling options are. I don’t expect Apple to replicate Moom—in fact, I’m glad they didn’t try—but as an inveterate “put the window in the center” person, I’m surprised that Apple only seems to think people want to divide windows in halves or quarters, rather than thirds.
+
+Still, this is a good addition to macOS. Given that most Mac users are using laptops these days, though, I’m not sure how many of them will find tiling to be the solution to their problems. Users with Macs attached to larger displays, however, may find it quite refreshing.
+
+Videoconference boosts
+
+
+Look, ma, I’m on the Rainbow Stage! (Not really.)
+One of the areas of macOS that’s seen the most improvement in recent years is how the system processes video input. Rather than passing through webcam video directly to apps like Zoom and FaceTime, that video is processed by macOS, using a lot of the same techniques Apple uses to process video and still images on the iPhone.
+
+In 2021, the Mac got support for Portrait Mode. In 2022 it was Continuity Camera, which threw iPhone-quality optics into the mix. And last year, macOS Sonoma brought a slew of layered animated effects, reaction, and presentation overlays.
+
+This year, Apple’s added background replacement to the mix. This is a feature that you’ve seen in a million different apps, in which your background can be replaced entirely with a different image. (I use this when I’m playing D&D—for atmosphere!—or when I’m traveling and want it to look like I’m still in my home studio.)
+
+In a way, Apple’s late to the game with this feature, but its presence means that you can replace your background in any app, not just ones with their own replacement feature. And you may well find that you’ll prefer to turn off the app’s background feature and use Apple’s instead. Apple is clearly using its very good machine-learning-based subject detection algorithm to separate you from your background.
+
+It’s the same technique it uses for portrait mode and its clever cut-out presenter overlay feature, but background replacement does expose the flaws of this technique better than just about any other feature. Apple’s implementation is great, better than I’ve seen in any videoconferencing app, especially in good lighting. Apple supplies some background images (pretend you’re at Apple Park!) and color gradients, but you can also add in your own.
+
+Safari additions
+
+Video Player
+
+
+00:00
+00:14
+
+
+Make those annoying elements disappear.
+Apple has rolled a bunch of new features into Safari this time out, and there’s none with more potential than Hide Distracting Items. It’s sort of like an ad blocker, but I think that’s the wrong way of looking at it. If you’re not someone who uses an ad blocker, you’ve undoubtedly run into a page that you want to read—but there’s a blinking ad, or an auto-playing video, or something else that makes staying on that page deeply unpleasant. When you click on the Reader icon and choose Hide Distracting Items, you can click on any annoying item and have Safari make it disappear in a shower of particles as if Thanos had snapped it away.
+
+Yes, this means you can arbitrarily block ads—and on some sites, they won’t come back for quite a while, if ever. I know that a lot of people get upset about the idea of ad blocking—I definitely make a good portion of my income from ads on various websites and in various podcasts—but in my opinion, Apple’s taking the right approach here. Sure, you can use Hide Distracting Items to block anything you want, but what it’s made to do is get rid of that awful thing that makes it hard for you to read a page. I know it’s hard out there on the Internet for publishers, but beyond a certain point, distracting items are a violation of the contract between publisher and reader. I have no qualms in hiding an animated ad or a video when it’s so obnoxious that I can’t focus, and nobody else should, either.
+
+
+Safari Viewer forces embedded video to fill the window.
+Apple has expanded Safari’s Reader feature to be a lot more than just a reader. When a page has more information to offer, the new Highlights icon appears at the left side of the Smart Bar, where the Reader icon has lived up to now. (To use Reader, you now need to click on Highlights and then click again on the prominent blue Show Reader button.)
+
+
+A local restaurant’s website automatically showed Maps links.
+Apple says the Highlights pane will be populated with useful information gleaned from the page and site you’re on, such as a summary of an article, the location of restaurants and other businesses, and even links to movies, TV shows, and music when you’re browsing relevant articles. This all is powered by Apple’s own search engine, the same tool that has powered Spotlight searches for a while now.
+
+It’s a bit of a mixed bag right now, though since this feature is driven by Apple’s own cloud services, I get the sense that the company will continue expanding the scope of sites that are covered over time. I was able to visit the website of a local restaurant and get a direct Maps link, and when I visited a Wikipedia page about a favorite album, it linked to the album on Apple Music. But it also unhelpfully reprinted the first paragraph of the Wikipedia page as the page’s “summary.” Yeah, Safari, I know. I’m looking right at it.
+
+Likewise, Reader has been updated to add a sidebar featuring a table of contents and summary on some articles. I’m somewhat dubious about the utility. If I’m choosing to use Reader on an article, do I need a summary? Is Reader for readers, or people who don’t want to read? Is the summary in the Highlights pane not enough?
+
+Then there’s the new Video Viewer feature, which is essentially the video equivalent of Reader. When Safari identifies embedded video on a page, it displays a Video Viewer command in the menu that appears when you click on the Reader icon. Video Viewer lets you expand the video to fill the entire Safari window. It’s meant as an antidote to sites that embed video but surround it with garbage and don’t let you expand the video yourself.
+
+It’s a nice idea, and when it worked for me, I could see its appeal. It dropped out everything else on the page, provided standard macOS video controls, and even automatically popped out into Picture-in-Picture mode when I switched to a different app, and returned to the Safari window when I went back to Safari.
+
+Passwords becomes an app
+
+
+It’s a full-featured password manager, bringing in features from Settings and Keychain Access.
+After several years of building a full-featured password manager inside the Settings app (not to mention the separate repository of information in the Keychain Access utility), Apple has gone all-in on building a free-standing Passwords app, and it runs not just on the Mac, but on iOS, iPadOS, and visionOS. (You also have access to passwords on Windows via the iCloud app. It feels like one platform is missing here, somehow.)
+
+So, the good news: the Passwords app puts Apple’s password management front and center in a way that it never was going to be when it was locked inside Settings. It’s got a nice, modern interface—think Reminders, but for passwords—and shows not just standard web logins but things like Wi-Fi passwords and rotating time-based codes and Passkeys. And since Apple lets you share passwords with other people—you can create a seemingly unlimited number of arbitrary groups and then move passwords into those groups—it’s really a full-featured option that will suffice for many users. (To share an item with a group, just drag it out of the list and drop it onto the group, which appears in the app’s sidebar, or right-click and choose Move to Group.)
+
+When I imported my 1Password file—a couple thousand passwords that, I admit, could stand to be pruned back—Passwords bogged down. It would say it had imported my file, but then not show any evidence that the new items had been added—and inevitably, once I attempted to import the items again, it would end up importing them twice. I guess the first import was in progress? But there was no indication that an import was still going on. The app needs to do a better job of showing the current status of imports, and probably should not import duplicates of existing items. Deleting items also took a very long time.
+
+The Passwords app is missing some features that you might expect from using other password apps, though in most cases it’s because Apple offers a different approach to solving the same problem. Password doesn’t offer secure notes, because that’s what Notes is for. It doesn’t save credit cards, because that’s what the Wallet settings panel does, sort of, though it doesn’t do nearly as good a job as 1Password. I also use 1Password to save all sorts of other information—passport numbers, software serial numbers, even SSH keys—in a sort of digital junk drawer. Should Passwords do all those things? Probably not, but I do think that there probably should be an answer for more disordered important information that’s not just “put it in a Secure Note.”
+
+Messages finally gets me
+
+
+Emoji reactions (and colored tapbacks), at long last.
+Across Mac, iPhone, and iPad, Apple is upgrading Messages to let people express themselves better. That’s a good impulse, and after a false start last year (in which Apple attempted to catch up with literally every other messaging service by misguidedly repurposing its sticker functionality), the company has really delivered.
+
+Yes, in addition to slapping a fresh coat of (color!) paint on the classic set of Tapbacks icons, Apple has finally introduced proper support for any emoji to be used as a reaction to an iMessage. When you tap back (or control-click/two-finger-click on Mac) to a message, you now get two lines of reaction options: the first contains the more colorful classics, and the second features the emojis you’ve most recently used to react. You can, of course, use the emoji picker to find the right one.
+
+(When you react, people with older versions of Apple’s operating systems will see a new message that says something like reacted 🚡 to “HAHA”. Inelegant, but it maintains backward compatibility.)
+
+There’s also support for per-character text formatting, so you can finally use bold and italic in messages, as well as apply animation effects to individual words instead of the entire message. Giving people a broader palette to use to express themselves is always a good choice.
+
+There’s also one more pragmatic new feature: Send Later. You can now tell Messages to send a message at a later time. Last night I remembered, just before going to bed, that I wanted to send a few pictures of a new addition to the family to my mom. It was way past her bedtime and I didn’t want I disturb her. With the new Messages, I could’ve set that message to send in the morning when she was certain to be awake.
+
+This appears to be a server-side feature; Apple says that if your device isn’t connected at the moment when the message is set to send, it’ll still send. Another good choice. After years of Apple seeming to take Messages and iMessage for granted, these are all welcome updates.
+
+Security that fails the test
+
+
+It’s a multi-step process to open an unsigned app for the first time.
+One unwelcome trend in macOS design the last few years has been an increased level of interference with the user in the name of privacy and security. As I’ve argued before, I admire Apple’s attempts to add modern security approaches to the Mac, a system designed in a very different environment decades ago. I just think that Apple has tended to make users pay for the decisions Apple makes, when it should be Apple investing in better ways to interact with users about security issues.
+
+This year, the biggest issue involves apps that haven’t been notarized by Apple. In other words, these are apps that have refused (for whatever reason) to submit to Apple’s process of scanning and cryptographically signing before distribution. While Apple lets the user choose whether to run apps only from the App Store or also allow apps that are outside of the App Store but notarized, there’s no option to also allow apps that aren’t notarized. It used to be that a savvy user could right-click on a new, unsigned app and choose Open to kick off a quick approval process to launch that app for the first time.
+
+That loophole has been closed, which seems unfortunate. (You had to know the shortcut and still validate that you wanted to open the app.) Now you’ve got to take quite a few more steps. On first double-click, Apple warns you that “Apple could not verify [the app] is free of malware that may harm your Mac or compromise your privacy.” Your options are Done or Move to Trash. That’s it. Your Mac will refuse to run the app that you downloaded and tried to run, and it won’t even tell you what to do to fix it.
+
+Here’s what you have to do: Open the Settings app, click on Privacy & Security, scroll all the way down to the Security section at the very bottom, and you’ll see a note that reads “[App] was blocked to protect your Mac.” There’s an Open Anyway button here you can click.
+
+It still doesn’t open the app.
+
+Instead, you now have to return to Finder and double-click the app, at which point you’re greeted with a warning: “Apple is not able to verify that [the App] is free from malware that could harm your Mac or compromise your privacy. Don’t open this unless you are certain it is from a trustworthy source.” You are once again strongly encouraged by a default button to move the app to the trash, but you can choose to “Open Anyway” if you really want to.
+
+The app still won’t open, though.
+
+The next step is an authentication. A user with administrative privileges must authenticate to make sure that you’re triple-dog sure that you want to launch the app. Once that authentication is done, the app will launch—and you never have to go through this rigamarole again with that app. At least, until the next time you update it.
+
+Once again, I don’t doubt that unsigned apps are a vector for malware and scamware and that Apple has the best intentions in trying to prevent people from launching them unawares. But this new approach, which involves nearly a half-dozen steps, goes way too far. It crosses a line, I think, between Apple trying to protect the user and Apple aggressively trying to poison any app that would defy its notarization scheme.
+
+
+It’s on Apple to work with developers to stop this dialog from ever appearing.
+Apple has promised to let you run any software you want on your Mac, but it never promised it wouldn’t make the process painful, I guess. I don’t like it. This is just too much.
+
+I haven’t even mentioned what Apple has done for apps that need to capture your entire screen. Apple has built a new window-sharing API that’s more private and secure, which is great—but some apps need more access than that, and Apple has apparently decided that most of them don’t deserve it. Instead, they trigger a user-hostile warning to authorize the app—but only for a month—before they’ll be asked again.
+
+Once again, it’s not that the impulse is bad, it’s that Apple has put the burden on the software developer and the user rather than doing the work itself. If some notable utility apps need more than Apple’s API can deliver, it’s on Apple to figure out how to work around that problem, and forcing monthly approvals by the user is not the way to do that. I hope Apple reaches out to all the developers who have slipped through the cracks and figures out a way to allow useful utilities to safely and securely continue to do their jobs—without alienating them from their users.
+
+In the name of making the Mac a safer place to be, right now Apple’s also making it a worse place to be. This is not an acceptable trade-off. It’s incumbent on Apple to make the Mac safer without compromising usability.
+
+Put bluntly, macOS Sequoia fails this test.
+
+More new features
+
+Of course, in addition to the bigger attractions, there are always a large number of assorted new features that are sprinkled throughout Apple’s platforms. Here’s a brief peek into those:
+
+
+You can plan hiking routes, view them on topographical maps, and save them to refer to later on an iPhone.
+Apple Maps has added trail navigation and topographic maps, across Apple’s major platforms. Letting hikers plan out their hikes and navigate on trails is a great upgrade. Apple has also loaded in hikes for U.S. National Parks. All of this is going to be more relevant on an iPhone, but people do build hiking plans on their Macs and iPads, so it’s good to cover all bases.
+
+Notes now will let you record audio and generate a transcript of the recording, which you can display in a column alongside your notes. I feel like there’s more to be done here in terms of taking notes during a lecture or meeting and linking the comments to the transcript, but it’s a start. You can also now do math inside a note automatically, just by typing an equation followed by the equals sign. And at long last, you can now expand and collapse sections in a Note based on the header, which can keep things tidy in a long, complex document.
+
+Photos has changed dramatically on the iPhone and iPad, but it hasn’t changed much on the Mac. The sidebar has been rearranged a bit, with a new Collections section that helps surface some new automatic groupings of photos. You can now create groups of People and Pets, so you can organize all photos with a collection of people without building a Smart Album. The new Trips feature uses location and time data to intuit when you’ve been traveling and build collections automatically based on that.
+
+
+New classic Mac-inspired desktops, screenavers, and lock screens are gorgeous.
+Desktop and Screensavers get an injection of fun with the new Macintosh screen saver and wallpaper settings, which generates dynamic, colorful artwork based on classic bitmap graphics images from old Macs. The results are gorgeous. The other day, my desktop wallpaper featured the classic System Error bomb icon and a bright green background. Chef’s kiss.
+
+But what about Apple Intelligence?
+
+So, now, to the headliner of the season. One of the biggest strategic moves in Apple’s history is jumping on the Artificial Intelligence train, which it is doing with the launch of Apple Intelligence—later this year. Only Apple Silicon Macs will support these features.)
+
+I’m not going to over-cover these features in this article, because they’re still in beta and aren’t part of the 15.0 release. I’ve been using macOS 15.1 alongside macOS 15.0 this summer, and can report that the Apple Intelligence tools thus far run the gamut from useful to unimpressive.
+
+The built-in Writing Tools have a lot of promise, most especially in offering corrections to your writing to make it more correct, though the interface was pretty messy the last time I checked. I’m less sold on the tools that re-word your writing and change its tone, but again, it’s got some applications—as long as it’s used responsibly.
+
+I really like the idea of using summarization functionality to do things like summarize emails in Mail before you open the message, summarizing collections of notifications for things like group chats, and building a new Priority Notifications Focus mode that intelligently filters what you’re allowed to see.
+
+Photos is a big beneficiary of Apple Intelligence features too, with a new ability to create on-demand Memories collections based on text input—you type “days at the beach with Jamie” and it generates a collection and a movie automatically. But the star feature is Clean Up, which lets you erase items from the backgrounds of images. It’s a feature that has been available in third-party apps for ages, but Apple has finally built it into Photos, and it works quite well.
+
+Other features promised by Apple Intelligence—an enhanced Siri and image generation among them—will appear later and weren’t available in beta form, or weren’t good enough to evaluate. I look forward to trying out these features when they ship to the general public, and watch as they involve and improve. Until then, we’ll all have to sit tight and wait.
+
+And now, an intermission
+
+Sometimes an opening act can surprise you. Yes, it’s often a nameless band that faded into obscurity, but sometimes you end up catching someone remarkable at a late stage of their career, a cult band gone before their time, or even a future hall-of-fame singer just as her first hit is breaking wide.
+
+All the stuff in macOS Sequoia 15.0 might not be what we remember in five or ten years—we’ll remember the headliner, for good or for bad, after Apple Intelligence arrives and makes its impression on us. But there’s still a lot of here to enjoy in the moment, as we wait for the rest of it to arrive. Like the last few macOS releases, this one seems quite gentle. There aren’t major refigurings happening in macOS—it’s still the Mac we know and love. A few features have gotten a bit nicer, some items have gotten a good glow-up, and the whole thing feels pretty solid and stable.
+
+As for what happens next? We’ll have to wait for the roadies to clear the stage, set things up, and anticipate what will happen when the lights start to dim.
