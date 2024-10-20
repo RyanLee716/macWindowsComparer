@@ -36,22 +36,31 @@ class ReviewRunner {
   {
     String[] windowsReviews = folderContents("windowsReviews");
     String[] macReviews = folderContents("macReviews");
-
-    int windowsSentimentAvg = 0;
+    int windowsWords = 0;
+    double windowsSentimentAvg = 0;
     for (String windowsReview : windowsReviews) {
       for (String word : windowsReview.split(" ")) {
-        windowsSentimentAvg += Review.sentimentVal(Review.removePunctuation(word));
+        double wordSentiment = Review.sentimentVal(Review.removePunctuation(word));
+        windowsSentimentAvg += wordSentiment;
+        if (wordSentiment != 0) {
+          windowsWords++;
+        }
       }
     }
-    windowsSentimentAvg /= windowsReviews.length;
+    windowsSentimentAvg /= windowsWords;
 
-    int macSentimentAvg = 0;
+    int macWords = 0;
+    double macSentimentAvg = 0;
     for (String macReview : macReviews) {
       for (String word : macReview.split(" ")) {
-        macSentimentAvg += Review.sentimentVal(Review.removePunctuation(word));
+        double wordSentiment = Review.sentimentVal(Review.removePunctuation(word));
+        macSentimentAvg += wordSentiment;
+        if (wordSentiment != 0) {
+          macWords++;
+        }
       }
     }
-    macSentimentAvg /= windowsReviews.length;
+    macSentimentAvg /= macWords;
 
     if (macSentimentAvg > windowsSentimentAvg) {
       System.out.println("Mac average sentiment value is higher than Windows by " + (macSentimentAvg - windowsSentimentAvg) + ".");
