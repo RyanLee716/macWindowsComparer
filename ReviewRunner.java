@@ -2,6 +2,15 @@ import java.io.File;
 import java.util.Scanner;
 
 class ReviewRunner {
+    /**
+    * Take a folder path and return a list of the text contained in the items within.
+    *
+    * Accepts a String that represents a path, which will be internally converted to a File object.
+    * Will attempt to read all paths within the folder, but will not recurse into folders within.
+    *
+    * @param folderName A string representing a local or global path.
+    * @return A String list containing the textual contents of all files within the folder given.
+    */
     public static String[] folderContents(String folderName) { 
       File folder = new File(folderName);
       File[] files = folder.listFiles(); 
